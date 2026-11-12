@@ -2,6 +2,7 @@
 name = "irig106-decode"
 version = "0.0.1"
 edition = "2024"
+rust-version = "1.85"
 description = "High-performance semantic payload decoding for IRIG 106 telemetry streams."
 repository = "https://github.com/TelemetryWorks/irig106-decode"
 license = "Apache-2.0"
